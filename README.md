@@ -11,8 +11,8 @@ Enter the partial search phrase:
 > how do i
 
 Full list of Google suggestions for: [ how do i ]
-how do i get a passport
-how do i put this gently
+how do i get a passport\n
+how do i put this gently\n
 how do i love thee
 how do i renew my passport
 how do i craft this again
